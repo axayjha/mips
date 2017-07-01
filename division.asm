@@ -1,0 +1,7 @@
+.data
+.text
+	addi $s0, $zero, 10
+	addi $s1, $zero, 5
+	div  $a0, $s0, $s1
+	li   $v0, 1
+	syscall
