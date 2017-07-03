@@ -20,9 +20,7 @@ msg3:    .ascii  "\n"
 num:     .word   0
 ans:     .word   0
 
-         .text
-         
-#=========================================================================================================
+         .text       
          .globl main
 main:    
         # printing the prompt msg
