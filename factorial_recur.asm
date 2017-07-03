@@ -1,5 +1,5 @@
 #=========================================================================================================
-# Implementatin of factorial program using recursion
+# Implementation of factorial program using recursion
 #
 # Stanford MIPS Assembly
 # Assembler tested with: MARS 
